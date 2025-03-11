@@ -14,4 +14,4 @@
 ### 📫 Me contacter :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ibrahimanilcontactpro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/ibrahim-anil/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ibrahim-anil](https://www.linkedin.com/in/ibrahim-anil/))
